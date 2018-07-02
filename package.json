@@ -1,0 +1,12 @@
+{
+  "name": "print-me-a-joke",
+  "version": "1.0.0",
+  "description": "Prints a random joke to the console.",
+  "main": "index.js",
+  "bin": "index.js",
+  "author": "Peter Lanser",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "one-liner-joke": "^1.0.0"
+  }
+}
